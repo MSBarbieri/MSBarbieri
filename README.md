@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi, I'm Matheus.
 
-<!--
-**MSBarbieri/MSBarbieri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> <b>Sao Paulo, Brazil</b>.
 
-Here are some ideas to get you started:
--->
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+### Where to find me
+<p>
+    <a href="https://www.linkedin.com/in/matheus-barbieri" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</p>
 
+
+## Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MSBarbieri)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MSBarbieri&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MSBarbieri)](https://github.com/anuraghazra/github-readme-stats)
