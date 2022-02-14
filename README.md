@@ -2,7 +2,7 @@
 
 I'm developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> <b>Sao Paulo, Brazil</b>.
 
-I dont use this account for production projects, here i have some personal experiments like: custom protocols, hpc tests, custom ui experiments (TUIs, webapp with wasm, cli in a bunch of languages) and etc.
+I dont use this account for production projects, here i have some personal experiments like: custom protocols, hpc tests, custom ui experiments (TUIs, webapp with wasm) 3D, clis in a bunch of languages, and etc.
 
 ---
 ## Where to find me
