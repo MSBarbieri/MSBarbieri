@@ -1,0 +1,3 @@
+[submodule "MSBarbieri"]
+	path = MSBarbieri
+	url = git@github.com:MSBarbieri/MSBarbieri.git
