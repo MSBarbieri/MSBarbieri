@@ -21,9 +21,6 @@ jobs:
           hugo-version: 'latest'
           # extended: true
 
-      - name: pull themes
-        run: git submodule init && git submodule update
-
       - name: Build
         run: hugo --minify
 
