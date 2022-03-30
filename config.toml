@@ -1,4 +1,4 @@
-baseURL = "https://MSBarbieri.githubpages.io"
+baseURL = "https://MSBarbieri.github.io"
 # [en, zh-cn, fr, pl, ...] determines default content language
 # [en, zh-cn, fr, pl, ...] 设置默认的语言
 defaultContentLanguage = "en"
@@ -93,7 +93,7 @@ title = "GitHub"
 weight = 6
 [languages.en.params]
 # site description
-description = "About LoveIt Theme"
+description = "Matheus Barbieri personal site"
 # site keywords
 keywords = ["Theme", "Hugo"]
 # App icon config
@@ -145,7 +145,7 @@ avatarURL = "/images/avatar.png"
 # title shown in home page (HTML format is supported)
 title = ""
 # subtitle shown in home page
-subtitle = "A Clean, Elegant but Advanced Hugo Theme"
+subtitle = "Another prograaming testing weird stuffs"
 # whether to use typeit animation for subtitle
 typeit = true
 # whether to show social links
@@ -244,7 +244,7 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
 identifier = "posts"
 pre = ""
 post = ""
-name = "Postes"
+name = "Posts"
 url = "/posts/"
 title = ""
 weight = 1
@@ -264,14 +264,14 @@ name = "Categorias"
 url = "/categories/"
 title = ""
 weight = 3
-[[languages.pt-br.menu.main]]
-identifier = "documentation"
-pre = ""
-post = ""
-name = "Docs"
-url = "/categories/documentation/"
-title = ""
-weight = 4
+# [[languages.pt-br.menu.main]]
+# identifier = "documentation"
+# pre = ""
+# post = ""
+# name = "Docs"
+# url = "/categories/documentation/"
+# title = ""
+# weight = 4
 [[languages.pt-br.menu.main]]
 identifier = "about"
 pre = ""
