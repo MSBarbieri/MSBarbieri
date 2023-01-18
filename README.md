@@ -33,34 +33,34 @@
   <table align="center" style="background-color:transparent;">
     <tr>
       <td>
-        <a href="https://github.com/msbarbieri/nixos"><img height="137px" align="center" alt="NixOS Config"
-            src="https://github-readme-stats.vercel.app/api/pin/?username=msbarbieri&repo=nixos&theme=dark" /></a>
+        <a href="https://github.com/MSBarbieri/nixos"><img height="137px" align="center" alt="NixOS Config"
+            src="https://github-readme-stats.vercel.app/api/pin/?username=MSBarbieri&repo=nixos&theme=dark" /></a>
       </td>
       <td>
-        <a href="https://github.com/msbarbieri/wiki"><img height="137px" align="center" alt="personal wiki"
-            src="https://github-readme-stats.vercel.app/api/pin/?username=msbarbieri&repo=wiki&theme=dark" /></a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/msbarbieri/awesome"><img height="137px" align="center" alt="AwesomeWM Config"
-            src="https://github-readme-stats.vercel.app/api/pin/?username=msbarbieri&repo=awesome&theme=dark" /></a>
-      </td>
-      <td>
-        <a href="https://github.com/msbarbieri/lvim-config"><img height="137px" align="center" alt="lunarvim Config"
-            src="https://github-readme-stats.vercel.app/api/pin/?username=msbarbieri&repo=lvim-config&theme=dark" /></a>
+        <a href="https://github.com/MSBarbieri/wiki"><img height="137px" align="center" alt="personal wiki"
+            src="https://github-readme-stats.vercel.app/api/pin/?username=MSBarbieri&repo=wiki&theme=dark" /></a>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/msbarbieri/local-k8s"><img height="137px" align="center"
+        <a href="https://github.com/MSBarbieri/awesome"><img height="137px" align="center" alt="AwesomeWM Config"
+            src="https://github-readme-stats.vercel.app/api/pin/?username=MSBarbieri&repo=awesome&theme=dark" /></a>
+      </td>
+      <td>
+        <a href="https://github.com/MSBarbieri/lvim-config"><img height="137px" align="center" alt="lunarvim Config"
+            src="https://github-readme-stats.vercel.app/api/pin/?username=MSBarbieri&repo=lvim-config&theme=dark" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/MSBarbieri/local-k8s"><img height="137px" align="center"
             alt="personal cluster for tests"
-            src="https://github-readme-stats.vercel.app/api/pin/?username=msbarbieri&repo=local-k8s&theme=dark" /></a>
+            src="https://github-readme-stats.vercel.app/api/pin/?username=MSBarbieri&repo=local-k8s&theme=dark" /></a>
       </td>
       <td>
-        <a href="https://github.com/msbarbieri/argocd"><img height="137px" align="center"
+        <a href="https://github.com/MSBarbieri/argocd"><img height="137px" align="center"
             alt="ArgoCD config for automate local-k8s"
-            src="https://github-readme-stats.vercel.app/api/pin/?username=msbarbieri&repo=argocd&theme=dark" /></a>
+            src="https://github-readme-stats.vercel.app/api/pin/?username=MSBarbieri&repo=argocd&theme=dark" /></a>
       </td>
     </tr>
   </table>
